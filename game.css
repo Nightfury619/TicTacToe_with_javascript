@@ -1,0 +1,22 @@
+td{
+  height:150px;
+  width: 150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+table{
+  margin-bottom: 50px;
+}
+.jumbotron{
+  background-image:url(splash.png);
+  background-repeat: no-repeat;
+ text-align: right;
+ background-size: 680px;
+ }
+#b{
+
+}
+body{
+  background-image: url(Cartoon-Beach-Tree-1920-x-1200.jpg);
+}
